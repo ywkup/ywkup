@@ -3,8 +3,6 @@
 <h1 align="center">Hi!, I'm Ywkup</h1>
 <h3 align="center">A Full-Stack Web Developer From Turkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywkup" alt="ywkup" /></a> </p>
-
 - 🔭 I’m currently working on [AnimX](https://animx.com)
 
 - 🌱 I’m currently learning **Express.JS / MySQL**
