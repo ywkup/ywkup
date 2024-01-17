@@ -2,8 +2,6 @@
 
 
 #                                ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 
-︶︶ ⸝⸝ 🌿 ꒰ Hi, My Name Is Yakup.<br>         ┊Full-Stack Web Developer
-
 
 #                               ~  𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮  ~
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
